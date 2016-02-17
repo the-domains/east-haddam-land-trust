@@ -1,0 +1,28 @@
+name: East Haddam Land Trust
+favicon: null
+layout_spectrum: 0.5808136048726737
+typography_spectrum: 0.41597065422683954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1789994288701564
+  lightness: 0.7197728296741843
+  saturation: 0.4498541073407978
+  rhythmicContrast: 0.2066807160153985
+purpose: []
